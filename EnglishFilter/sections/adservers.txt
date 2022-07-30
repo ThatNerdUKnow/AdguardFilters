@@ -9,6 +9,7 @@
 !
 !
 !
+||s0.2mdn.net^
 ||js.wpshsdk.com^
 ||getnee.com^
 ||papereu.click^$all
